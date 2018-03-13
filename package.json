@@ -1,17 +1,19 @@
 {
-  "name": "yue-db-handler",
-  "version": "0.0.1",
-  "description": "handler for db service",
+  "name": "yue-http-util",
+  "version": "0.0.2",
+  "description": "http handler by axios",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "db-service"
+    "node-http",
+    "http-handler"
   ],
   "author": "Yue.",
   "license": "ISC",
   "dependencies": {
-    "yue-http-util": "^0.0.2"
+    "axios": "^0.17.1",
+    "qs": "^6.5.1"
   }
 }
