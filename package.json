@@ -1,6 +1,6 @@
 {
   "name": "yue-db-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "handler for db service",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "author": "Yue.",
   "license": "ISC",
   "dependencies": {
+    "yue-config-service-handler": "0.0.1",
     "yue-http-util": "^0.0.2"
   }
 }
