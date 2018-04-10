@@ -12,8 +12,8 @@
   "author": "Yue.",
   "license": "ISC",
   "dependencies": {
-    "yue-config-service-handler": "^0.0.1",
-    "yue-helper": "^0.0.1",
+    "yue-config-service-handler": "0.0.2",
+    "yue-helper": "0.0.3",
     "yue-http-util": "^1.0.2"
   }
 }
