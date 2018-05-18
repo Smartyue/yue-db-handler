@@ -1,6 +1,6 @@
 {
   "name": "yue-db-handler",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "handler for db service",
   "main": "index.js",
   "scripts": {
